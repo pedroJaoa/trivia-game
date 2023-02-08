@@ -23,5 +23,5 @@ Bem-vindo ao meu repositório de projetos desenvolvidos no curso de formação T
 <p>No gif abaixo você pode encontrar algumas das funcionalidades possíveis na aplicação, para acessa-lá em seu navegador, você pode encontrar o link para acesso ao meu portfólio na sessão abaixo.</p>
 
 <h2 align="center">
-  <img alt="gif-readme" title="project-trivia" src="./github/trybe-trivia.gif"/>
+  <img alt="gif-readme" title="project-trivia" src="/home/joao/Downloads/Screencast from 19-01-2023 02_28_33.webm"/>
 </h2>
