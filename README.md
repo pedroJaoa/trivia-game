@@ -14,6 +14,7 @@ Bem-vindo ao meu repositório de projetos desenvolvidos no curso de formação T
   <a href="https://www.linkedin.com/in/carlosoliveira81/" target="_blanck">Carlos Oliveira - Kadu </a>
   <a href="https://www.linkedin.com/in/thiago-slira/" target="_blanck">Thiago Lira</a>
   <a href="https://www.linkedin.com/in/phyllipesa/">Phyllipe Soares</a>
+  <a href="https://www.linkedin.com/in/antoniobrunowingert/">Antonio Wingert</a>
   <a href="  https://www.linkedin.com/in/miguel-ambrosio-martins-551bb623b/">Miguel Ambrosio</a>
 </p>
 
@@ -24,7 +25,3 @@ Bem-vindo ao meu repositório de projetos desenvolvidos no curso de formação T
 <h2 align="center">
   <img alt="gif-readme" title="project-trivia" src="./github/trybe-trivia.gif"/>
 </h2>
-
-<h1>Portfólio / projetos online.</h1>
-
-<p>Esse, assim como todos os projetos que desenvolvi durante o curso e desenvolvi por conta própria estarão disponíveis no meu <a href="https://antoniowingert-github-io.vercel.app/" target="_blanck">Portfólio</a>, na aba de projetos, seja bem-vindo para explorar e caso se interessar pode entrar com contato comigo!</p>
