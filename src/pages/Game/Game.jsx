@@ -105,11 +105,8 @@ class Game extends Component {
     this.setState((prevState) => ({
       assertions: prevState.assertions + 1,
     }));
-    if (difficulty === 'easy') {
-      return 1;
-    } if (difficulty === 'medium') {
-      return 2;
-    }
+    if (difficulty === 'easy') { return 1; }
+    if (difficulty === 'medium') { return 2; }
     return THREE;
   };
 
@@ -133,11 +130,8 @@ class Game extends Component {
       dispatch(saveNewQuestionScore(points));
       clearInterval(intervalId);
     }
-    if (revealQuests && answer === correctAnswer) {
-      return 'green';
-    } if (revealQuests) {
-      return 'red';
-    }
+    if (revealQuests && answer === correctAnswer) { return 'green'; }
+    if (revealQuests) { return 'red'; }
     return '';
   };
 
@@ -149,12 +143,8 @@ class Game extends Component {
   timer = () => {
     const { time, intervalId } = this.state;
     const ONE_SECOND = 1000;
-    if (intervalId) {
-      this.setState({ time: 30, intervalId: '' });
-    }
-    if (time === 0) {
-      this.setState({ time: 30, intervalId: '' });
-    }
+    if (intervalId) { this.setState({ time: 30, intervalId: '' }); }
+    if (time === 0) { this.setState({ time: 30, intervalId: '' }); }
 
     const timer = setInterval(
       () => {
