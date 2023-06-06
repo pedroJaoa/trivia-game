@@ -5,4 +5,8 @@
   
 https://trivi-game.vercel.app
 
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  
+  <h2>Built with: <h2>
+    <ul>
+  <li><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /><li>
+<ul>
